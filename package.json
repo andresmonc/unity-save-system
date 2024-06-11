@@ -1,0 +1,18 @@
+{
+  "name": "com.jmoncayo.unity-save-system",
+  "version": "1.0.0",
+  "displayName": "Advanced Save System",
+  "description": "An advanced save system that is dynamic and simple to setup.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+ "keywords": [
+    "save",
+    "savesystem",
+    "savemanager"
+  ],
+  "author": {
+    "name": "andresmonc",
+    "email": "jaimeamonc@gmail.com",
+    "url": "https://jmoncayo.com"
+  }
+}
